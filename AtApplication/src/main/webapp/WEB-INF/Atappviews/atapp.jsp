@@ -100,7 +100,7 @@
 			<nav class="layout--navigation" style="opacity: 1; transform: matrix(0, -1, 1, 0, 0, 0);">
 				<ul class="nav nav--menu">
 					<li class="nav__li" data-target="#cropmark">
-						<a href="#cropmark" class="link link--js">Cropmark</a>
+						<a href="#cropmark" class="link link--js">Atapp</a>
 							<div class="focus">
 							</div>
 					</li>
@@ -134,8 +134,12 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<h1 style="opacity: 1;">
-								<span class="wrapper wrapper--text" style="opacity: 1; transform: translate3d(0px, 0px, 0px);">Hi, we are</span>
-								<span class="logo logo--cropmark" style="opacity: 1;"></span>
+								<span class="wrapper wrapper--text" style="opacity: 1; transform: translate3d(0px, 0px, 0px);">
+									Hi, we are
+								</span>
+								 <!-- <span class="logo logo--cropmark" style="opacity: 1;"></span>  -->
+								 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Atapplication</i>
+								
 							</h1>
 						</div>
 					</div>
@@ -438,9 +442,9 @@
 						</div>
 					</div>
 					
-					</div>
 				</div>
-				<!-- /section close -->
+			</div>
+			<!-- /section close -->
 				
 				
 				<div class="section section--team type type--team" id="team">
@@ -651,6 +655,8 @@
 								
 							</div>
 						</div>
+					</div>
+				</div>		
 						
 						<div class="section section--network type type--network" id="network">
 							<div class="wrapper wrapper--container container-fluid">
@@ -1017,7 +1023,8 @@
 										</div>
 										
 									</div>
-									
+								</div>
+							</div>		
 									
 									<div class="section section--contact type type--contact" id="contact" style="bottom: 295px;">
 										<div class="wrapper wrapper--container container-fluid">
