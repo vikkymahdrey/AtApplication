@@ -2,7 +2,8 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no"><meta name="format-detection" content="telephone=no"><base href="http://www.cropmark.lu/">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no"><meta name="format-detection" content="telephone=no">
+<base href="http://www.cropmark.lu/">
 <title>Atapplication.com</title>
 <meta name="referrer" content="always">
 <meta name="robots" content="all">
@@ -62,6 +63,8 @@
  <script src="/assets/website/js/scripts.js?0cbb39dd79"></script> 
  <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-59531941-1','auto');ga('send','pageview');</script> <script type="text/javascript">var _paq=_paq||[];_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function(){var u="//www.doitwithfun.com/analytics/";_paq.push(['setTrackerUrl',u+'piwik.php']);_paq.push(['setSiteId','32']);var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];g.type='text/javascript';g.async=true;g.defer=true;g.src=u+'piwik.js';s.parentNode.insertBefore(g,s);})();
  </script> 
+ 
+
  <noscript>&lt;p&gt;&lt;img
 	src="//www.doitwithfun.com/analytics/piwik.php?idsite=32&amp;amp;rec=1" style="border:0;" alt=""&gt;&lt;/p&gt;
  </noscript>
@@ -69,9 +72,18 @@
  </head>
  
  <body id="layout--homepage" class="module module--homepage footer footer--no-reveal">
-	 <div id="awwwards" class="nominee">
-		<a href="http://www.awwwards.com/sites/cropmark-creative-studio" target="_blank">Awwwards</a>
-	 </div>
+	 <!-- <div id="awwwards1" class="nominee">
+		<a href="http://www.atapplication.com" target="_blank">Atapp</a>
+	 </div> -->
+	<!--  
+	 <div>
+	 	
+		<a href="http://www.atapplication.com" target="_blank">Atapp</a>
+		 <a href="http://www.atapplication.com"><img src="images/Atapplogo.png" alt=""></a> 
+	 </div> -->
+	  
+	 
+	  
 	 
 	 <div class="wrapper wrapper--loader">
 	 
@@ -133,14 +145,16 @@
 				<div class="wrapper wrapper--content container">
 					<div class="row">
 						<div class="col-xs-12">
-							<h1 style="opacity: 1;">
-								<span class="wrapper wrapper--text" style="opacity: 1; transform: translate3d(0px, 0px, 0px);">
+						<span style="color:red;font-size: 100px;"><b>COMING SOON!</b></span>
+  						<h1 style="opacity: 1;">
+							<span class="wrapper wrapper--text" style="opacity: 1; transform: translate3d(0px, 0px, 0px);">
 									Hi, we are
 								</span>
 								 <!-- <span class="logo logo--cropmark" style="opacity: 1;"></span>  -->
 								 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Atapplication</i>
 								
 							</h1>
+							
 						</div>
 					</div>
 				</div>
@@ -237,8 +251,11 @@
 							<div class="wrapper wrapper--body" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 99.9999);">
 								<div class="redactor redactor--body row">
 									<div class="col-xs-12 col-sm-8">
-										<p>cropmark is a&nbsp;full-service creative studio based in Luxembourg and Brussels.&nbsp;With more than 20 years of experience in brand creation and communication design, we deliver for all sectors and disciplines - offline and&nbsp;online.</p>
+										<p>At application&nbsp;is a software development, business and technology services,technology consulting and software solutions providing company.&nbsp;</p><br/>
+										<p>Helping our clients to achieve great things is what drives us. Increasingly, this means working with them on the ground to scale change and build capabilities to ensure lasting success.</p>
 									</div>
+									
+									
 								</div>
 							</div>
 							
@@ -449,7 +466,7 @@
 				
 				<div class="section section--team type type--team" id="team">
 					<div class="wrapper wrapper--container container">
-						<div class="row">
+						<!-- <div class="row">
 							<div class="col-xs-12">
 								<header class="wrapper wrapper--header" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 150);">
 									<h2 class="flex justify--between">
@@ -653,8 +670,8 @@
 									</div>
 								</div>
 								
-							</div>
-						</div>
+							</div> 
+						</div>-->
 					</div>
 				</div>		
 						
@@ -1064,13 +1081,14 @@
 												<div class="redactor redactor--body row">
 													<div class="col-xs-12 col-sm-8">
 														<p>
-															<a href="https://goo.gl/maps/hNXDR52Agj92" target="_blank">113, ‌avenue ‌Gaston ‌Diderich<br>L-1420 ‌Luxembourg
-															</a>
+															45#, Koramangala 1st Block‌<br/>Bangalore 560034
+															
 														</p>
-														<p><strong>T</strong> 
-															 <a>+352 ‌44 ‌61 ‌61</a><br><strong>F</strong> 
-															 <a>+352 ‌44 ‌66 ‌82</a><br><strong>E</strong>  
-															 <a href="mailto:contact@cropmark.lu">contact@cropmark.lu</a>
+														<p><strong>M:</strong> 
+															 <a>+91-9620300915</a><br><strong>M:</strong> 
+															 <a>+91-9743722774</a><br><strong>M:</strong> 
+															 <a>+91-9480387837</a><br><strong>Email:</strong>   
+															 <a href="info@atapplication.com">info@atapplication.com</a>
 														</p>
 													</div>
 												</div>
@@ -1086,9 +1104,9 @@
 			<div class="wrapper wrapper--companies row">
 				<div class="wrapper--company col-xs-6 col-sm-6 col-md-4">
 					<a href="http://www.cropmark.lu" target="_blank" class="wrapper wrapper--link">
-						<div class="logo logo--cropmark">
-						</div>
-						<h4>creative studio</h4>
+						<!-- <div class="logo logo--cropmark">
+						</div> -->
+						<h4>At application software solution providers </h4>
 					</a>
 					<div class="wrapper wrapper--social flex align--center">
 						<a href="http://instagram.com/cropmarklux" target="_blank" class="icon icon--instagram">
@@ -1118,7 +1136,7 @@
 				<div class="wrapper--company col-xs-6 col-sm-6 col-md-4">
 					<a href="http://www.everythingisfun.eu" target="_blank" class="wrapper wrapper--link">
 						<div class="logo logo--everything-is-fun">
-						</div><h4>digital creative studio</h4>
+						</div><h4>Software solution providers</h4>
 					</a>
 					<div class="wrapper wrapper--social flex align--center">
 						<a href="http://instagram.com/everythingisfunstudio" target="_blank" class="icon icon--instagram">
@@ -1162,11 +1180,12 @@
 			
 			<div class="wrapper wrapper--copyright row">
 				<div class="col-xs-12">
-					<small>© &nbsp;2017 cropmark. - <a href="http://www.designluxembourg.lu" target="_blank">Member of Design Luxembourg</a></small>
+					<small>©2017 At application.</small>
 				</div>
 			</div>
 		</div>
 	</footer>
    </div> 
+  
   </body>
   </html>
