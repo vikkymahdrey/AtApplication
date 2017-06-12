@@ -8,7 +8,7 @@
 	    <meta name="description" content="">
 	    <meta name="author" content="">
 
-	    <title>Orchid</title>
+	    <title>Atapplication</title>
 	    <!-- Web Fonts -->
 		<link href='http://fonts.googleapis.com/css?family=Roboto:400,900,700,500,300' rel='stylesheet' type='text/css'>
 	    <!-- Flaticon CSS -->
@@ -36,6 +36,37 @@
 		    <script src="js/vendor/html5shim.js"></script>
 		    <script src="js/vendor/respond.min.js"></script>
 	    <![endif]-->
+	    
+	    <!-- jQuery -->
+	    <script src="js/jquery.js"></script>
+	    <!-- Bootstrap Core JavaScript -->
+	    <script src="js/bootstrap.min.js"></script>
+	    <!-- wow.min.js -->
+	    <script src="js/wow.min.js"></script>
+	    <!-- smoothscroll -->
+	    <script src="js/smoothscroll.js"></script>
+	    <!-- twitterFetcher_min -->
+	    <script src="js/twitterFetcher_min.js"></script>
+	    <!-- owl.carousel -->
+	    <script src="js/owl.carousel.min.js"></script>
+		<!-- Offcanvas Menu -->
+		<script src="js/hippo-offcanvas.js"></script>
+		<!-- inview -->
+		<script src="js/jquery.inview.min.js"></script>
+		<!-- stellar -->
+		<script src="js/jquery.stellar.js"></script>
+		<!-- countTo -->
+		<script src="js/jquery.countTo.js"></script>
+	    <!-- Scrolling Nav JavaScript -->
+	    <script src="js/jquery.easing.min.js"></script>
+		<!-- flickerPhoto -->
+		<script src="js/flickerPhoto.min.js"></script>
+		<!-- Shuffle.min js -->
+		<script src="js/jquery.shuffle.min.js"></script>
+	    <!-- GOGLE MAP -->
+	    <script src="https://maps.googleapis.com/maps/api/js"></script>
+	    <!-- Custom Script -->
+	    <script src="js/scripts.js"></script>
 	</head>
 
 
@@ -55,7 +86,7 @@
 		                          <i class="fa fa-bars"></i>
 		                        </button>
 							    <!-- offcanvas-trigger-effects -->
-								<h1 class="logo"><a class="navbar-brand" href="index.html"><img src="img/logo.png" alt=""></a></h1>
+								<h1 class="logo"><a class="navbar-brand" href="#"><img src="img/atapps1.png"  alt=""></a></h1>
 							</div>
 
 							<!-- Collect the nav links, forms, and other content for toggling -->
@@ -81,33 +112,33 @@
 				    <ol class="carousel-indicators">
 				        <li data-target="#x-corp-carousel" data-slide-to="0" class="active"></li>
 				        <li data-target="#x-corp-carousel" data-slide-to="1"></li>
+				        <li data-target="#x-corp-carousel" data-slide-to="2"></li>
+				        <li data-target="#x-corp-carousel" data-slide-to="3"></li>
+				     
 				    </ol>
 
 				    <!-- Wrapper for slides -->
 				    <div class="carousel-inner" role="listbox">
 				        <div class="item active">
-				            <img src="img/slider/slide-1.jpg" alt="Hero Slide">
+				            <img src="img/slider/slide1.jpg"  alt="Hero Slide">
 				            <!--Slide Image-->
 
-				            <div class="container">
+				             <div class="container">
 				                <div class="carousel-caption">
-				                    <h1 class="animated lightSpeedIn">Creative Ideas &amp; Solutions</h1>
-
-				                    <p class="lead animated lightSpeedIn">Energistically benchmark resource maximizing catalysts for change with <br> enterprise collaboration and idea-sharing. Dramatically evisculate.</p>
-
-				                    <a class="btn btn-default animated lightSpeedIn" href="#">Get Started</a>
+				                	<h1 class="animated lightSpeedIn" style="color:red;">Coming Soon</h1>
+				                    <h1 class="animated lightSpeedIn" style="color:white;">Hi, we are atapplication...</h1>
+				                    <a class="btn btn-default animated lightSpeedIn" href="#">Get Started</a> 
 				                </div>
-				                <!--.carousel-caption-->
-				            </div>
-				            <!--.container-->
+				            </div> 
+				            
 				        </div>
 				        <!--.item-->
 
 				        <div class="item">
-				            <img src="img/slider/slide-2.jpg" alt="Hero Slide">
+				            <img src="img/slider/slide2.jpg" alt="Hero Slide">
 				            <!--Slide Image-->
 
-				            <div class="container">
+				            <!-- <div class="container">
 				                <div class="carousel-caption">
 
 				                    <h1 class="animated bounceIn">Clean &amp; Fresh Design</h1>
@@ -115,23 +146,40 @@
 				                    <p class="lead animated bounceIn">Energistically benchmark resource maximizing catalysts for change with <br> enterprise collaboration and idea-sharing. Dramatically evisculate.</p>
 				                    <a class="btn btn-default animated bounceIn" href="#">Work With Us Today</a>
 				                </div>
-				                <!--.carousel-caption-->
-				            </div>
-				            <!--.container-->
+				                
+				            </div> -->
+				            
 				        </div>
 				        <!--.item-->
+				        
+				        <div class="item">
+				            <img src="img/slider/slide3.jpg" alt="Hero Slide">
+				        </div>
+				        
+				        
+				        
+				        
+				        <div class="item">
+				            <img src="img/slider/slide4.jpg" alt="Hero Slide">
+				           
+				        </div>
+				        
+				        
 				    </div>
 				    <!--.carousel-inner-->
 
 				    <!-- Controls -->
-				    <a class="left carousel-control" href="#x-corp-carousel" role="button" data-slide="prev">
+				     <a class="left carousel-control" href="#x-corp-carousel" role="button" data-slide="prev" style="position:fixed;">
 				        <i class="fa fa-angle-left" aria-hidden="true"></i>
 				        <span class="sr-only">Previous</span>
 				    </a>
-				    <a class="right carousel-control" href="#x-corp-carousel" role="button" data-slide="next">
+				    <a class="right carousel-control" href="#x-corp-carousel" role="button" data-slide="next" style="position:fixed;">
 				        <i class="fa fa-angle-right" aria-hidden="true"></i>
 				        <span class="sr-only">Next</span>
-				    </a>
+				    </a> 
+				    
+				    
+    
 				</div>
                  <!-- /end slider section -->
 
@@ -305,8 +353,8 @@
 								                <a data-toggle="modal" data-target="#portfolioModal1" href="#"><i class="flaticon-slanting1"></i></a>
 								              </div>
 								              <div class="figure-info">
-								                <span> Marketing / Branding</span>
-								                <h2><a href="#">Affiliate Marketing</a></h2>
+								                <span> Transport / Optimization</span>
+								                <h2><a href="#">Mobile GPS Tracking</a></h2>
 								              </div>
 								            </figcaption>   
 								        </figure>
@@ -339,8 +387,8 @@
 								                <a data-toggle="modal" data-target="#portfolioModal1" href="#"><i class="flaticon-slanting1"></i></a>
 								              </div>
 								              <div class="figure-info">
-								                <span> Development / Marketing</span>
-								                <h2><a href="#">Web Template Marketing</a></h2>
+								                <span> Software</span>
+								                <h2><a href="#"> Development / Marketing</a></h2>
 								              </div>
 								            </figcaption>   
 								        </figure>
@@ -427,18 +475,18 @@
 		        <!-- team start -->
 		        <section id="about" class="team-section section-padding">
 			        <div class="container">
-		              	<div class="row text-center">
+		              	<!-- <div class="row text-center">
 		                	<div class="col-xs-12">
 		                  		<h2 class="section-title wow zoomIn">We Make Beautiful Website</h2>
 		                  		<div class="team-intro wow zoomIn">
 		                  			<p>Completely re-engineer superior catalysts for change without team driven schemas. Synergistically myocardinate backward-compatible bandwidth and B2B platforms. Appropriately reconceptualize leveraged expertise for go forward action items. Compellingly incentivize progressive catalysts for change whereas leading-edge meta-services. Assertively leverage existing market positioning outsourcing for effective architectures.</p>
 		                  		</div>
 		                	</div>
-		              	</div> <!-- /.row -->
+		              	</div> 
 
 		              	<div class="star-devider">
 				          <img src="img/black-star.png" alt="">
-				        </div>
+				        </div>-->
 
 		              	<div class="row text-center">
 		                	<div class="col-xs-12">
@@ -450,14 +498,14 @@
 			              	<div class="row">
 				              	<div class="col-sm-4">
 							        <figure class="css-hover-effect">
-							            <img src="img/team/team-1.jpg" alt="">
+							            <img src="img/team/team1.jpg" alt="">
 							            <figcaption class="figure-caption">
 							              <div class="figure-link">
-							                <a class="social-first" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-							                <a class="social-second" href="#" target="_blank"><i class="fa fa-github-alt"></i></a>
+							               <!--  <a class="social-first" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+							                <a class="social-second" href="#" target="_blank"><i class="fa fa-github-alt"></i></a> -->
 							              </div>
 							              <div class="figure-info">
-							                <h2>Kenneth Ortiz <small>Director</small></h2>
+							                <h2>Managing At <small>Director</small></h2>
 							              </div>
 							            </figcaption>   
 							        </figure>
@@ -465,14 +513,14 @@
 
 				              	<div class="col-sm-4">
 							        <figure class="css-hover-effect">
-							            <img src="img/team/team-2.jpg" alt="">
+							            <img src="img/team/team2.jpg" alt="">
 							            <figcaption class="figure-caption">
 							              <div class="figure-link">
-							                <a class="social-first" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-							                <a class="social-second" href="#" target="_blank"><i class="fa fa-github-alt"></i></a>
+							                <!-- <a class="social-first" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+							                <a class="social-second" href="#" target="_blank"><i class="fa fa-github-alt"></i></a> -->
 							              </div>
 							              <div class="figure-info">
-							                <h2>Kenneth Ortiz <small>Director</small></h2>
+							                <h2>Our <small>Engineers</small></h2>
 							              </div>
 							            </figcaption>   
 							        </figure>
@@ -480,14 +528,14 @@
 
 				              	<div class="col-sm-4">
 							        <figure class="css-hover-effect">
-							            <img src="img/team/team-3.jpg" alt="">
+							            <img src="img/team/team6.jpg" alt="">
 							            <figcaption class="figure-caption">
 							              <div class="figure-link">
-							                <a class="social-first" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-							                <a class="social-second" href="#" target="_blank"><i class="fa fa-github-alt"></i></a>
+							                <!-- <a class="social-first" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+							                <a class="social-second" href="#" target="_blank"><i class="fa fa-github-alt"></i></a> -->
 							              </div>
 							              <div class="figure-info">
-							                <h2>Kenneth Ortiz <small>Director</small></h2>
+							                <h2>Sales/Marketing<small>Team</small></h2>
 							              </div>
 							            </figcaption>   
 							        </figure>
@@ -505,11 +553,11 @@
 			        	<div class="container">
 							<div class="row text-center">
 						        <div class="col-xs-12 col-sm-3">
-						          <strong><span class="timer">3650</span>+</strong>
+						          <strong><span class="timer">150</span>+</strong>
 						          <span class="count-description">Happy client served</span>
 						        </div> <!-- /.col-sm-3 -->
 						        <div class="col-xs-12 col-sm-3">
-						          <strong><span class="timer">10650</span>+</strong>
+						          <strong><span class="timer">1050</span>+</strong>
 						          <span class="count-description">Cup of coffee</span>
 						        </div><!-- /.col-sm-3 -->
 						        <div class="col-xs-12 col-sm-3">
@@ -549,27 +597,26 @@
 								  <!-- Wrapper for slides -->
 								  <div class="carousel-inner" role="listbox">
 								    <div class="item active">
-								      <img src="img/avatar-2.jpg" alt="">
+								      <img src="img/slider/slide4.jpg" alt="">
 								      <div class="carousel-caption">
-								        <p>Uniquely repurpose global web services rather than intermandated core competencies. Competently impact leveraged strategic theme areas without market-driven information.</p>
-
-								        <span class="source-title">Chanel Iman, Pinterest</span>
+								        <p>Atapps has done work on our software applications as well as business developement areas! We love their work.</p>
+								        <!-- <span class="source-title">Chanel Iman, Pinterest</span> -->
 								      </div>
 								    </div>
 								    <div class="item">
-								      <img src="img/avatar-2.jpg" alt="">
+								      <img src="img/slider/slide4.jpg" alt="">
 								      <div class="carousel-caption">
-								        <p>Uniquely repurpose global web services rather than intermandated core competencies. Competently impact leveraged strategic theme areas without market-driven information.</p>
+								        <p>The designs they have come up with have been fantastic and if we do not like something or wish to change certain details they have no problem working with us until we are completely satisfied with the final product.</p>
 
-								        <span class="source-title">Chanel Iman, Pinterest</span>
+								       <!--  <span class="source-title">Chanel Iman, Pinterest</span> -->
 								      </div>
 								    </div>
 								    <div class="item">
-								      <img src="img/avatar-2.jpg" alt="">
+								      <img src="img/slider/slide4.jpg" alt="">
 								      <div class="carousel-caption">
-								        <p>Uniquely repurpose global web services rather than intermandated core competencies. Competently impact leveraged strategic theme areas without market-driven information.</p>
+								        <p>We will continue to work with them for future projects.</p>
 
-								        <span class="source-title">Chanel Iman, Pinterest</span>
+								        <!-- <span class="source-title">Chanel Iman, Pinterest</span> -->
 								      </div>
 								    </div>
 
@@ -587,35 +634,25 @@
 			        <div class="container">
 		              	<div class="row text-center">
 		                	<div class="col-xs-12">
-		                  		<h2 class="section-title wow zoomIn">We Are Trusted By</h2>
+		                  		<h2 class="section-title wow zoomIn">We Are Registered By</h2>
 		                	</div>
 		              	</div> <!-- /.row -->
 
 						<div class="row content-row">
-					      <div class="col-xs-6 col-sm-3 partner wow zoomIn">
-					        <a href="#"><img src="img/partner/partner-1.png" alt=""></a>
+					      <div class="col-xs-6 col-sm-4 partner wow zoomIn">
+					        <a href="#"><img src="img/partner/trusted1.jpg" alt=""></a>
 					      </div>
-					      <div class="col-xs-6 col-sm-3 partner wow zoomIn">
-					        <a href="#"><img src="img/partner/partner-2.png" alt=""></a>
+					      
+					      <div class="col-xs-6 col-sm-4 partner wow zoomIn">
+					        <a href="#"><img src="img/partner/trusted3.jpg" alt=""></a>
 					      </div>
-					      <div class="col-xs-6 col-sm-3 partner wow zoomIn">
-					        <a href="#"><img src="img/partner/partner-3.png" alt=""></a>
+					     
+					      <div class="col-xs-6 col-sm-4 partner wow zoomIn">
+					        <a href="#"><img src="img/partner/trusted2.png" alt=""></a>
 					      </div>
-					      <div class="col-xs-6 col-sm-3 partner wow zoomIn">
-					        <a href="#"><img src="img/partner/partner-4.png" alt=""></a>
-					      </div>
-					      <div class="col-xs-6 col-sm-3 partner wow zoomIn">
-					        <a href="#"><img src="img/partner/partner-4.png" alt=""></a>
-					      </div>
-					      <div class="col-xs-6 col-sm-3 partner wow zoomIn">
-					        <a href="#"><img src="img/partner/partner-3.png" alt=""></a>
-					      </div>
-					      <div class="col-xs-6 col-sm-3 partner wow zoomIn">
-					        <a href="#"><img src="img/partner/partner-2.png" alt=""></a>
-					      </div>
-					      <div class="col-xs-6 col-sm-3 partner wow zoomIn">
-					        <a href="#"><img src="img/partner/partner-1.png" alt=""></a>
-					      </div>
+					      
+					      
+					     
 					  	</div>
 		        	</div> <!-- /.container -->
 		        </section>
@@ -623,13 +660,13 @@
 
 
 		        <!-- Blog Homepage-->
-		        <section id="blog" class="blog-section section-padding">
+		        <!-- <section id="blog" class="blog-section section-padding">
 			        <div class="container">
 		              	<div class="row text-center">
 		                	<div class="col-xs-12">
 		                  		<h2 class="section-title wow zoomIn">Blog Post</h2>
 		                	</div>
-		              	</div> <!-- /.row -->
+		              	</div> /.row
 
 
 		              	<div class="row content-row">
@@ -638,10 +675,10 @@
 									<header class="entry-header">
 										<div class="entry-meta">
 											<span class="the-time"><a href="#">Apr 23<sup>th</sup></a></span>
-										</div><!-- /.entry-meta -->
+										</div>/.entry-meta
 
 										<h2 class="entry-title"><a href="blog-single.html">Competently fabricate progressive niches via cross-unit relationships.</a></h2>
-									</header><!-- /.entry-header -->
+									</header>/.entry-header
 
 									<div class="post-thumbnail">
 										<img src="img/blog/blog-1.jpg" class="img-responsive " alt="">
@@ -653,19 +690,19 @@
 								         	</ul>
 
 								       		<a class="readmore pull-right" href="blog-single.html"><i class="fa fa-plus"></i></a>
-										</div><!-- /.entry-footer -->
-									</div><!-- /.post-thumbnail -->
+										</div>/.entry-footer
+									</div>/.post-thumbnail
 								</article>
-					      	</div><!-- /.col-md-4 -->
+					      	</div>/.col-md-4
 							<div class="col-sm-6 col-md-4">
 								<article class="blog-post-wrapper">
 									<header class="entry-header">
 										<div class="entry-meta">
 											<span class="the-time"><a href="#">May 23<sup>th</sup></a></span>
-										</div><!-- /.entry-meta -->
+										</div>/.entry-meta
 
 										<h2 class="entry-title"><a href="blog-single.html">Competently fabricate progressive niches via cross-unit relationships.</a></h2>
-									</header><!-- /.entry-header -->
+									</header>/.entry-header
 
 									<div class="post-thumbnail">
 										<img src="img/blog/blog-4.jpg" class="img-responsive " alt="">
@@ -677,19 +714,19 @@
 								         	</ul>
 
 								       		<a class="readmore pull-right" href="blog-single.html"><i class="fa fa-plus"></i></a>
-										</div><!-- /.entry-footer -->
-									</div><!-- /.post-thumbnail -->
+										</div>/.entry-footer
+									</div>/.post-thumbnail
 								</article>
-					      	</div><!-- /.col-md-4 -->
+					      	</div>/.col-md-4
 							<div class="col-sm-6 col-md-4">
 								<article class="blog-post-wrapper">
 									<header class="entry-header">
 										<div class="entry-meta">
 											<span class="the-time"><a href="#">Jun 23<sup>th</sup></a></span>
-										</div><!-- /.entry-meta -->
+										</div>/.entry-meta
 
 										<h2 class="entry-title"><a href="blog-single.html">Competently fabricate progressive niches via cross-unit relationships.</a></h2>
-									</header><!-- /.entry-header -->
+									</header>/.entry-header
 
 									<div class="post-thumbnail">
 										<img src="img/blog/blog-5.jpg" class="img-responsive " alt="">
@@ -701,19 +738,19 @@
 								         	</ul>
 
 								       		<a class="readmore pull-right" href="blog-single.html"><i class="fa fa-plus"></i></a>
-										</div><!-- /.entry-footer -->
-									</div><!-- /.post-thumbnail -->
+										</div>/.entry-footer
+									</div>/.post-thumbnail
 								</article>
-					      	</div><!-- /.col-md-4 -->
+					      	</div>/.col-md-4
 							<div class="col-sm-6 col-md-4">
 								<article class="blog-post-wrapper">
 									<header class="entry-header">
 										<div class="entry-meta">
 											<span class="the-time"><a href="#">Aug 23<sup>th</sup></a></span>
-										</div><!-- /.entry-meta -->
+										</div>/.entry-meta
 
 										<h2 class="entry-title"><a href="blog-single.html">Competently fabricate progressive niches via cross-unit relationships.</a></h2>
-									</header><!-- /.entry-header -->
+									</header>/.entry-header
 
 									<div class="post-thumbnail">
 										<img src="img/blog/blog-2.jpg" class="img-responsive " alt="">
@@ -725,19 +762,19 @@
 								         	</ul>
 
 								       		<a class="readmore pull-right" href="blog-single.html"><i class="fa fa-plus"></i></a>
-										</div><!-- /.entry-footer -->
-									</div><!-- /.post-thumbnail -->
+										</div>/.entry-footer
+									</div>/.post-thumbnail
 								</article>
-					      	</div><!-- /.col-md-4 -->
+					      	</div>/.col-md-4
 							<div class="col-sm-6 col-md-4">
 								<article class="blog-post-wrapper">
 									<header class="entry-header">
 										<div class="entry-meta">
 											<span class="the-time"><a href="#">Jan 23<sup>th</sup></a></span>
-										</div><!-- /.entry-meta -->
+										</div>/.entry-meta
 
 										<h2 class="entry-title"><a href="blog-single.html">Competently fabricate progressive niches via cross-unit relationships.</a></h2>
-									</header><!-- /.entry-header -->
+									</header>/.entry-header
 
 									<div class="post-thumbnail">
 										<img src="img/blog/blog-3.jpg" class="img-responsive " alt="">
@@ -749,19 +786,19 @@
 								         	</ul>
 
 								       		<a class="readmore pull-right" href="blog-single.html"><i class="fa fa-plus"></i></a>
-										</div><!-- /.entry-footer -->
-									</div><!-- /.post-thumbnail -->
+										</div>/.entry-footer
+									</div>/.post-thumbnail
 								</article>
-					      	</div><!-- /.col-md-4 -->
+					      	</div>/.col-md-4
 							<div class="col-sm-6 col-md-4">
 								<article class="blog-post-wrapper">
 									<header class="entry-header">
 										<div class="entry-meta">
 											<span class="the-time"><a href="#">Feb 23<sup>th</sup></a></span>
-										</div><!-- /.entry-meta -->
+										</div>/.entry-meta
 
 										<h2 class="entry-title"><a href="blog-single.html">Competently fabricate progressive niches via cross-unit relationships.</a></h2>
-									</header><!-- /.entry-header -->
+									</header>/.entry-header
 
 									<div class="post-thumbnail">
 										<img src="img/blog/blog-6.jpg" class="img-responsive " alt="">
@@ -773,62 +810,62 @@
 								         	</ul>
 
 								       		<a class="readmore pull-right" href="blog-single.html"><i class="fa fa-plus"></i></a>
-										</div><!-- /.entry-footer -->
-									</div><!-- /.post-thumbnail -->
+										</div>/.entry-footer
+									</div>/.post-thumbnail
 								</article>
-					      	</div><!-- /.col-md-4 -->
-		              	</div><!-- /.row -->
+					      	</div>/.col-md-4
+		              	</div>/.row
 
 						<div class="more-post text-center">
 				        	<a href="blog.html" class="btn btn-primary btn-lg">More Blog Post</a>
 				        </div>
 
-		        	</div> <!-- /.container -->
-		        </section>
+		        	</div> /.container
+		        </section> -->
 		        <!-- Blog end -->
 
 
 				<!-- Twitter start -->
-				<section id="twitter" class="twitter-feed-section section-padding">
+				<!-- <section id="twitter" class="twitter-feed-section section-padding">
 				    <div class="container">
 
 				      <div class="row">
 				        <div class="col-sm-8 col-sm-offset-2 text-center">
 				          <div class="twitter owl-carousel"></div>
 				        </div>
-				      </div><!-- .row -->
+				      </div>.row
 
-				    </div><!-- .container -->
-				</section>
+				    </div>.container
+				</section> -->
 				<!-- Twitter end -->
 
 				<!-- call-to-action start -->
-		        <section class="call-to-action section-padding">
+		        <!-- <section class="call-to-action section-padding">
 			        <div class="container">
 				        <h2 class="wow zoomIn">Duis mollis est non commodo luctus nisi erat porttitor.</h2>
 				        <span class="sub-title wow zoomIn">You can decide which html tags you want</span>
 				        <a href="#" class="btn btn-primary btn-lg">Purchase</a>
-		            </div> <!-- /.container -->
-		        </section>
+		            </div> /.container
+		        </section> -->
 		        <!-- call-to-action end -->
 
 
 		        <!-- footer start -->
-				<footer id="contact" class="footer-widget-wrapper">
-					<div class="container">
+		        
+				<footer id="contact" class="footer-widget-wrapper" >
+					<div class="container" >
 						<div class="row">
 							<div class="col-sm-3 col-md-3 col-md-offset-1">
 								<div class="footer-widget footer-logo">
-									<a href="#"><img src="img/footer-logo.png" alt=""></a>
-								</div><!-- /.col-md-6 -->
-							</div><!-- /.col-md-6 -->
+									<!-- <a href="#"><img src="img/atapps1.png" alt=""></a> -->
+								</div>
+							</div>
 							<div class="col-sm-3 col-md-2 col-lg-2">
 								<div class="footer-widget">
 									<h3>Social</h3>
 									<ul>
 										<li><a href="#">Twitter</a></li>
 										<li><a href="#">Facebook</a></li>
-										<li><a href="#">Dribble</a></li>
 										<li><a href="#">Linkedin</a></li>
 									</ul>
 								</div><!-- /.footer-widget -->
@@ -837,8 +874,8 @@
 								<div class="footer-widget">
 									<h3>Location</h3>
 									<address>
-									  50 Louis St. NW, Ste. 520<br>
-									  Grand Rapids, MI 49503<br>
+									  Building#, Bangalore<br>
+									  Karanataka 560034<br>
 									  <!-- Google Map Modal Trigger -->
 									  <a class="modal-map" data-toggle="modal" data-target="#cssMapModal" href="#">View on Google Maps</a>
 									</address>
@@ -866,8 +903,8 @@
 							<div class="col-sm-3 col-md-3">
 								<div class="footer-widget">
 									<h3>Get in Touch</h3>
-									<a href="#">+00 (123) 456 789</a>
-									<a href="mailto:#">info@uicookies.com</a>
+									<a href="#">+91 9620300915, +91 9743722774</a>
+									<a href="mailto:#">info@atapplication.com</a>
 									<a class="feedback-modal" data-toggle="modal" data-target="#feedModal" href="#">Send us your feedback</a>
 
 									<!-- Modal -->
@@ -927,7 +964,7 @@
 						<div class="row">
 							<div class="col-xs-12 text-center">
 								<div class="copyright">
-									<p>&copy; 2017 Orchid.  Design by : <a href="https://uicookies.com" title="uiCookies">uiCookies</a></p>
+									<p>&copy; 2017 Atapps.  Design by : <a href="http://www.atapplication.com" title="atapplication">http://www.atapplication.com</a></p>
 								</div>
 							</div>
 						</div>
@@ -964,35 +1001,6 @@
 		</div>
 
 
-	    <!-- jQuery -->
-	    <script src="js/jquery.js"></script>
-	    <!-- Bootstrap Core JavaScript -->
-	    <script src="js/bootstrap.min.js"></script>
-	    <!-- wow.min.js -->
-	    <script src="js/wow.min.js"></script>
-	    <!-- smoothscroll -->
-	    <script src="js/smoothscroll.js"></script>
-	    <!-- twitterFetcher_min -->
-	    <script src="js/twitterFetcher_min.js"></script>
-	    <!-- owl.carousel -->
-	    <script src="js/owl.carousel.min.js"></script>
-		<!-- Offcanvas Menu -->
-		<script src="js/hippo-offcanvas.js"></script>
-		<!-- inview -->
-		<script src="js/jquery.inview.min.js"></script>
-		<!-- stellar -->
-		<script src="js/jquery.stellar.js"></script>
-		<!-- countTo -->
-		<script src="js/jquery.countTo.js"></script>
-	    <!-- Scrolling Nav JavaScript -->
-	    <script src="js/jquery.easing.min.js"></script>
-		<!-- flickerPhoto -->
-		<script src="js/flickerPhoto.min.js"></script>
-		<!-- Shuffle.min js -->
-		<script src="js/jquery.shuffle.min.js"></script>
-	    <!-- GOGLE MAP -->
-	    <script src="https://maps.googleapis.com/maps/api/js"></script>
-	    <!-- Custom Script -->
-	    <script src="js/scripts.js"></script>
+	    
 	</body>
 </html>

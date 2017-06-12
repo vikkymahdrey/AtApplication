@@ -4,7 +4,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no"><meta name="format-detection" content="telephone=no">
 <base href="http://www.cropmark.lu/">
-<title>Atapplication.com</title>
+<title>Quotewillers.com</title>
 <meta name="referrer" content="always">
 <meta name="robots" content="all">
 <meta name="keywords" content="cropmark, luxembourg, campagne, corporate design, editorial design, cms, seo, strategy, pub, publicitaire, web design, development">
@@ -107,22 +107,22 @@
 				
 			</div>
 		</div>
-		
-		<header id="layout--header">
+		<!-- 
+		 <header id="layout--header">
 			<nav class="layout--navigation" style="opacity: 1; transform: matrix(0, -1, 1, 0, 0, 0);">
 				<ul class="nav nav--menu">
 					<li class="nav__li" data-target="#cropmark">
-						<a href="#cropmark" class="link link--js">Atapp</a>
+						<a href="#" class="link link--js">Quotes</a>
 							<div class="focus">
 							</div>
 					</li>
 					
 					<li class="nav__li" data-target="#projects">
-						<a href="#projects" class="link link--js">Projects</a>
+						<a href="#projects" class="link link--js">Quotes</a>
 							<div class="focus"></div>
 					</li>
 					
-					<li class="nav__li" data-target="#team">
+					 <li class="nav__li" data-target="#team">
 						<a href="#team" class="link link--js">Team</a>
 							<div class="focus"></div>
 					</li>
@@ -130,28 +130,28 @@
 					<li class="nav__li" data-target="#network">
 						<a href="#network" class="link link--js">Network</a>
 							<div class="focus"></div>
-					</li>
-					
+					</li> 
+					 
 					<li class="nav__li" data-target="#contact">
-						<a href="#contact" class="link link--js">Contact</a>
+						<a href="#" class="link link--js">Contact</a>
 							<div class="focus"></div>
 					</li>
 				</ul>
 			</nav>
-		</header>
+		</header> -->
 		
-		<main id="layout--main" style="padding-bottom: 640px;">
-			<div class="section section--introduction flex align--center">
+		<main id="layout--main" style="padding-bottom: 640px;position:fixed;">
+			<div class="section section--introduction flex align--center"  >
 				<div class="wrapper wrapper--content container">
 					<div class="row">
 						<div class="col-xs-12">
-						<span style="color:red;font-size: 100px;"><b>COMING SOON!</b></span>
+						<span style="color:red;font-size: 50px;"><b>COMING<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SOON!</b></span>
   						<h1 style="opacity: 1;">
 							<span class="wrapper wrapper--text" style="opacity: 1; transform: translate3d(0px, 0px, 0px);">
 									Hi, we are
 								</span>
 								 <!-- <span class="logo logo--cropmark" style="opacity: 1;"></span>  -->
-								 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Atapplication</i>
+								 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Quotewillers</i>
 								
 							</h1>
 							
@@ -159,7 +159,7 @@
 					</div>
 				</div>
 				
-				<div class="wrapper wrapper--scroll-down" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
+				 <div class="wrapper wrapper--scroll-down" style="opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);">
 					<div class="wrapper wrapper--container container">
 						<div class="row">
 							<div class="col-xs-12">
@@ -179,11 +179,11 @@
 							
 						</div>
 					</div>
-				</div>
+				</div> 
 			</div>
-			
+		 
 			<div class="section section--cropmark type type--webpage" id="cropmark">
-				<div class="parallax parallax--background flex justify--center">
+				<!-- <div class="parallax parallax--background flex justify--center">
 						<svg width="1126px" height="467px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 							<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 							<g transform="translate(-150, -818)">
@@ -236,9 +236,9 @@
 							</g>
 							</g>
 						</svg>
-				</div>
+				</div> -->
 				
-				<div class="wrapper wrapper--container container">
+			 <!-- <div class="wrapper wrapper--container container">
 					<div class="row">
 						<div class="col-xs-12">
 							<header class="wrapper wrapper--header" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 99.9999);">
@@ -261,9 +261,10 @@
 							
 						</div>
 					</div>
-				</div>
+				</div>  
 				
 			</div>
+			
 			
 			<div class="section section--projects type type--projects" id="projects">
 				<div class="wrapper wrapper--container container-fluid">
@@ -461,12 +462,12 @@
 					
 				</div>
 			</div>
-			<!-- /section close -->
+			 
 				
 				
 				<div class="section section--team type type--team" id="team">
 					<div class="wrapper wrapper--container container">
-						<!-- <div class="row">
+						 <div class="row">
 							<div class="col-xs-12">
 								<header class="wrapper wrapper--header" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 150);">
 									<h2 class="flex justify--between">
@@ -671,7 +672,7 @@
 								</div>
 								
 							</div> 
-						</div>-->
+						</div>
 					</div>
 				</div>		
 						
@@ -1041,9 +1042,9 @@
 										
 									</div>
 								</div>
-							</div>		
+							</div>-->		
 									
-									<div class="section section--contact type type--contact" id="contact" style="bottom: 295px;">
+									<!-- <div class="section section--contact type type--contact" id="contact" style="bottom: 295px;">
 										<div class="wrapper wrapper--container container-fluid">
 											<div class="container">
 												<header class="wrapper wrapper--header row">
@@ -1081,31 +1082,30 @@
 												<div class="redactor redactor--body row">
 													<div class="col-xs-12 col-sm-8">
 														<p>
-															45#, Koramangala 1st Block‌<br/>Bangalore 560034
+															H.No #, Faridabad <br/>Haryana 121005
 															
 														</p>
 														<p><strong>M:</strong> 
-															 <a>+91-9620300915</a><br><strong>M:</strong> 
-															 <a>+91-9743722774</a><br><strong>M:</strong> 
-															 <a>+91-9480387837</a><br><strong>Email:</strong>   
-															 <a href="info@atapplication.com">info@atapplication.com</a>
+															 <a>+91-8920622431</a><br><strong>M:</strong> 
+															 <a>+91-9743722774</a><br><strong>Email:</strong>   
+															 <a href="quotewillers@gmail.com">quotewillers@gmail.com</a>
 														</p>
 													</div>
 												</div>
 												
 											</div>
 										</div>
-									</div>
+									</div> -->
 		</main>
 		
 		
-	<footer id="layout--footer">
+	<!-- <footer id="layout--footer">
 		<div class="container">
 			<div class="wrapper wrapper--companies row">
 				<div class="wrapper--company col-xs-6 col-sm-6 col-md-4">
 					<a href="http://www.cropmark.lu" target="_blank" class="wrapper wrapper--link">
-						<!-- <div class="logo logo--cropmark">
-						</div> -->
+						<div class="logo logo--cropmark">
+						</div>
 						<h4>At application software solution providers </h4>
 					</a>
 					<div class="wrapper wrapper--social flex align--center">
@@ -1184,7 +1184,7 @@
 				</div>
 			</div>
 		</div>
-	</footer>
+	</footer> -->
    </div> 
   
   </body>
