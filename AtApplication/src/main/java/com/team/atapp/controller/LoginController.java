@@ -25,8 +25,7 @@ public class LoginController {
 	
 	@RequestMapping(value= {"/"})
 	public String defaultURL(){
-		logger.info(" React App login request");
-		return "atapp";
+		return "index";
 	}
 	
 	
